@@ -1,3 +1,5 @@
 print("Enter")
 print("How are you")
 print("I'm fine thankyou")
+print("where are u now")
+print("im using github")
